@@ -1,6 +1,19 @@
 <h1 align="center">Hi 👋, I'm Angelos</h1>
 <h3 align="center">A passionate frontend developer from Greece</h3>
 
+  **`Digital Craftsman (Developer / Filmmaker / Creator)`**
+
+I am a Front-End Developer driven by the intersection of **clean code** and **visual storytelling**. Having recently completed my A-Levels, I am now dedicated to mastering the modern web ecosystem and building digital experiences that resonate.
+
+---
+
+## 🚀 The Mission
+* **Building:** Crafting responsive, accessible web applications with React and Tailwind CSS.
+* **Learning:** Committing to daily growth by exploring new frameworks and performance patterns.
+* **Creating:** Applying my filmmaker's eye for composition and pacing to UI/UX design.
+
+---
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
