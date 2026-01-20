@@ -5,7 +5,7 @@
 
 I am a Front-End Developer driven by the intersection of **clean code** and **visual storytelling**. Having recently completed my A-Levels, I am now dedicated to mastering the modern web ecosystem and building digital experiences that resonate.
 
-<a href="https://www.buymeacoffee.com/angelosioak" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
+<a href="https://buymeacoffee.com/angelosioak" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
 
 ---
 
