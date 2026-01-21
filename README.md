@@ -1,47 +1,56 @@
-# Hi there, I'm Angelos Ioakeimidis 👋
+<h1 align="center">Hi 👋, I'm Angelos</h1>
+<h3 align="center">A passionate frontend developer from Greece</h3>
 
-### 🚀 Aspiring Frontend Developer | AI & Data Science Student @ University of Northampton (on Gap Year)
+  **`Digital Craftsman (Developer / Filmmaker / Creator)`**
 
-I am a self-driven developer currently taking a proactive gap year to bridge the gap between **Data Science** and **Modern Frontend Engineering**. My goal is to build performant, accessible, and data-driven user experiences.
+I am a Front-End Developer driven by the intersection of **clean code** and **visual storytelling**. Having recently completed my A-Levels, I am now dedicated to mastering the modern web ecosystem and building digital experiences that resonate.
 
----
-
-### 📖 About Me
-- 🎓 **Education:** Completed A-Levels; currently a BSc Artificial Intelligence and Data Science student at UoN (Gap Year).
-- 🛠️ **The Transition:** While my degree focuses on the "brain" of applications (AI/Data), I am spending this year mastering the "face" (Frontend) to become a full-stack capable engineer.
-- 🎯 **Current Mission:** Seeking a Junior Frontend Developer role to apply my skills in React and TypeScript.
-- ✍️ **Fun Fact:** I use my AI background to think about how to build smarter, more intuitive UIs.
+<a href="https://buymeacoffee.com/angelosioak" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
 
 ---
 
-### 🛠️ Tech Stack & Tools
-
-**Frontend & Core:**
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Astro](https://img.shields.io/badge/Astro-FF5D01?style=flat-square&logo=astro&logoColor=white)
-
-**Styling & Structure:**
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![Semantic UI](https://img.shields.io/badge/Semantic_HTML-000000?style=flat-square&logo=googlechrome&logoColor=white)
+## 🚀 The Mission
+* **Building:** Crafting responsive, accessible web applications with React and Tailwind CSS.
+* **Learning:** Committing to daily growth by exploring new frameworks and performance patterns.
+* **Creating:** Applying my filmmaker's eye for composition and pacing to UI/UX design.
 
 ---
 
-### 📈 What I'm Learning & Improving
-- 🧪 **Testing:** Diving into Vitest and Playwright for robust code.
-- ⚡ **Performance:** Learning how to optimize Core Web Vitals in Astro & React.
-- 🤖 **AI Integration:** Building UI components that interact with LLM APIs.
+## 🛠 Technologies
+* **Frontend:** HTML5, CSS3, JavaScript (ES6+), React, Astro, TailwindCSS
+* **Tools:** VS Code, Git/GitHub, Vite, Prettier
 
----
+## ✨ Features
+* **Fully Responsive:** Optimized for a seamless experience across mobile, tablet, and desktop screens.
+* **Accessible:** Built with Semantic HTML to ensure full support for screen reader users.
+* **Interactive Elements:** Integrated custom-built components [e.g., Form Validation / Image Slider] to enhance user engagement.
+* **Performance:** Implemented image optimization and minified code for lightning-fast load times.
 
-### 📂 Featured Projects
-* **[Project Name]** - A [brief description] built with React and Tailwind. [Link to Repo]
-* **[Astro Blog/Portfolio]** - Exploring static site generation and SEO. [Link to Repo]
+## 🏗 The Process
+I approached this project using a **Mobile-First workflow** to ensure the core experience was solid before scaling up for larger screens.
 
----
+1.  **Requirement Analysis:** Broke down the design into reusable, modular components.
+2.  **Style Guide:** Established a global system for colors, typography, and spacing for visual consistency.
+3.  **Structure:** Developed the foundation using semantic HTML for better SEO and accessibility.
+4.  **Styling & Logic:** Applied layout systems using **CSS Grid and Flexbox**, then layered on interactivity with JavaScript.
 
-### 📫 Connect with me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF4B4B?style=flat-square&logo=google-chrome&logoColor=white)](YOUR_PORTFOLIO_URL)
+## 🧠 What I Learned
+Through the development of this project, I gained hands-on experience in:
+
+* **DOM Manipulation:** Learning how to efficiently update the UI without requiring page refreshes.
+* **Asynchronous JS:** Managing API calls and implementing loading states for a smoother UX.
+* **Problem Solving:** Successfully overcame [Insert specific bug, e.g., a z-index layering issue or a complex state bug] by debugging and refactoring logic.
+
+## 📐 Coordinates and Measurements
+Precision is key to a "Digital Craftsman" approach. This project utilizes:
+
+* **Grid System:** A structured 12-column grid for consistent layout alignment.
+* **Spacing:** An 8px-based spacing system to ensure perfect visual harmony.
+* **Typography:** Fluid typography implemented via `clamp()` for responsive readability.
+* **Breakpoints:** Standardized transitions at `480px`, `768px`, and `1024px`.
+
+## 📈 Overall Growth
+This project marks a significant milestone in my journey from A-Levels to practical software engineering. It challenged me to manage a development lifecycle from start to finish. I have emerged with a much stronger grasp of **Git version control** and a commitment to writing **clean, maintainable CSS** that is ready for professional collaboration.
+
+<h3 align="left">Languages and Tools</h3>
+<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
